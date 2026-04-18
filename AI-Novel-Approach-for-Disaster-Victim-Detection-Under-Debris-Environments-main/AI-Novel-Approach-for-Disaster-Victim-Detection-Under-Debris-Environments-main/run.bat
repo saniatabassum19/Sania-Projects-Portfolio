@@ -1,0 +1,2 @@
+python VictimDetection.py
+pause
