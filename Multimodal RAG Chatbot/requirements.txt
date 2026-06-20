@@ -1,0 +1,13 @@
+streamlit
+pymupdf
+easyocr
+pandas
+openpyxl
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+faiss-cpu
+sentence-transformers
+python-dotenv
